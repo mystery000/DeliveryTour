@@ -1,0 +1,48 @@
+Order Date;Type;item code;current location;destination;volume;Time at Destination in Min;Priority
+13.06.22;Delivery;IK0272;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Radelandstraße 4, Berlin, 13589;1;20;low
+13.06.22;Delivery;IK0259;Germany, Lindberghstraße 15, München 80939;Germany, Ulmer Str. 240, Augsburg, 86156;1;20;low
+13.06.22;Pickup;IK0145;Germany, Amberger Str. 4, Schwandorf, 92421;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;low
+13.06.22;Delivery;IK0146;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Baseler Str. 84, Berlin, 12205;3;20;high
+13.06.22;Delivery;IK0152;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Blücherstraße 20, Berlin, 12207;3;20;medium
+13.06.22;Delivery;IK0134;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Akazienstraße 12, Großbeeren, 14979;5;20;medium
+13.06.22;Pickup;IK0212;Germany, Jungfrauenthal 26, Hamburg, 20149;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Delivery;IK0532;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Dülferstraße 119, München , 80995;1.25;20;medium
+13.06.22;Delivery;IC0425;Germany, Lindberghstraße 15, München 80939;Germany, Ackermannstraße 41a, Frankfurt , 60326;0.25;20;medium
+13.06.22;Delivery;IK1854;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Altonaer Str. 39, Köln, 50737;1;20;medium
+13.06.22;Delivery;IK5427;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Altonaer Str. 39, Köln, 50737;1;20;medium
+13.06.22;Delivery;IK4784;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Altonaer Str. 39, Köln, 50737;0.5;20;medium
+13.06.22;Pickup;IK1334;Germany, Altonaer Str. 39, Köln, 50737;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Pickup;IK1574;Germany, Altonaer Str. 39, Köln, 50737;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Pickup;IK1231;Germany, Altonaer Str. 39, Köln, 50737;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Pickup;IK3534;Germany, Altonaer Str. 39, Köln, 50737;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Pickup;IC0312;Germany, Auf'm Brautschatz 20, Dortmund, 44263;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;0.25;20;medium
+13.06.22;Delivery;IC0485;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Nittenauer Str. 24, Bruck in der Oberpfalz, 92436;0.25;20;medium
+13.06.22;Delivery;IK1534;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Austria, Wipplingerstraße 29, Wien, 1010;1;20;high
+13.06.22;Pickup;IK1686;Germany, Thaerstraße 139, Potsdam, 14469;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Delivery;IK1684;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Brassertstraße 36, Essen, 45130;1;20;medium
+13.06.22;Delivery;IK0574;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Brassertstraße 36, Essen, 45130;0.75;20;medium
+13.06.22;Delivery;IK0679;Germany, Lindberghstraße 15, München 80939;Germany, Schopenhauerstraße 17, Nürnberg, 90409;1;20;medium
+13.06.22;Pickup;IK0813;Germany, Gremberger Str. 114, Köln, 51105;Germany, Lindberghstraße 15, München 80939;1;20;medium
+13.06.22;Pickup;IK0112;Germany, Gremberger Str. 114, Köln, 51105;Germany, Lindberghstraße 15, München 80939;0.5;20;medium
+13.06.22;Delivery;IC0225;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Nürnberger Str. 18, Dresden, 01187;0.25;20;medium
+13.06.22;Delivery;IK9421;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Holbeinstraße 62, Berlin , 12203;1;20;medium
+13.06.22;Pickup;IK1639;Germany, Klingenstraße 136D, Stuttgart , 70188;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;0.75;20;medium
+13.06.22;Pickup;IK2222;Germany, Lindenstraße 35, Oldenburg, 26123;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Pickup;IK2223;Germany, Lindenstraße 35, Oldenburg, 26123;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Pickup;IK2224;Germany, Lindenstraße 35, Oldenburg, 26123;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;0.75;20;medium
+13.06.22;Pickup;IK2225;Germany, Lindenstraße 35, Oldenburg, 26123;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;0.75;20;medium
+13.06.22;Pickup;IK4925;Germany, Servatiusstraße 70, Bonn, 53129;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;0.75;20;medium
+13.06.22;Delivery;IK4925;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Servatiusstraße 70, Bonn, 53129;1;20;medium
+13.06.22;Delivery;IK4926;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Peter-Henlein-Straße 7, Postbauer-Heng, 92353;1;20;medium
+13.06.22;Delivery;IK4927;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Lärchenstraße 28, Seubersdorf in der Oberpfalz, 92358;1;20;medium
+13.06.22;Delivery;IK4928;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Lärchenstraße 28, Seubersdorf in der Oberpfalz, 92358;0.75;20;medium
+13.06.22;Delivery;IK4929;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Lärchenstraße 28, Seubersdorf in der Oberpfalz, 92358;0.75;20;medium
+13.06.22;Delivery;IK4930;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Hans-Mielich-Straße 29, München , 81543;0.5;20;medium
+13.06.22;Pickup;IK4931;Austria, Niesenbergergasse 55, Graz, 8020;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;1;20;medium
+13.06.22;Delivery;IK4932;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Kranichweg 5, Hamburg, 22305;1;20;medium
+13.06.22;Delivery;IK4933;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Süderstraße 67, Husum, 25813;1;20;medium
+13.06.22;Delivery;IK4934;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Am Finkenherd 21, Berlin, 13589;4;20;medium
+13.06.22;Delivery;IK4935;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Senftenberger Ring 62, Berlin, 13435;6;20;medium
+13.06.22;Delivery;IK4936;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Haduweg 13, Berlin, 13125;3;20;medium
+13.06.22;Delivery;IK4937;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Baseler Str. 6, Panketal, 16341;7;20;medium
+13.06.23;Delivery;IK4938;Germany, Eubabrunner Str. 17, Markneukirchen, 08258;Germany, Köpenzeile 52, Berlin, 12557;0.5;20;medium
